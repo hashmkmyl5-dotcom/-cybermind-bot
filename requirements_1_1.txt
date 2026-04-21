@@ -1,0 +1,6 @@
+python-telegram-bot
+aiosqlite
+aiohttp
+beautifulsoup4
+google-generativeai
+python-dotenv
